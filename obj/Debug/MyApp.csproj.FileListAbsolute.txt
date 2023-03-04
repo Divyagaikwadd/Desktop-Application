@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.Form1.resources
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.Home.resources
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.Login.resources
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\ADMIN\source\repos\MyApp\bin\Debug\MyApp.exe
+C:\Users\ADMIN\source\repos\MyApp\bin\Debug\MyApp.pdb
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.exe
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.pdb
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.Employee.resources
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.ViewEmployee.resources
+C:\Users\ADMIN\source\repos\MyApp\obj\Debug\MyApp.Salary.resources
