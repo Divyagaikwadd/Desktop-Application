@@ -1,5 +1,5 @@
 # Desktop-Application ( Employee Management )
-I have created a Employee Management Desktop Application using C# .NET with MySQL .In which we can perform various operation on employee Data such as Add, Delete, Edit  &amp; also to Display Employee Details and its Salary we can take the print out of it.
+I have created a Employee Management Desktop Application using C# .NET with MySQL .In which we can perform various operation on employee Data such as Add, Delete, Edit & also display Employee Details and  Salary & can take the print out of it..
 
 
 ![Screenshot (157)](https://user-images.githubusercontent.com/99081628/222921078-3050c2ca-44cd-403f-adf5-e7f813a25672.png)
